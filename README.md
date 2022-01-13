@@ -5,3 +5,4 @@ A Python based Image converter supporting a bunch of image formats.
 
 ### Requirments
 Python needs to be isntalled for this program to work.
+Tkinter doesn't work when .py converted to .exe for some reason - this script uses Tkinter as the graphics library
