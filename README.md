@@ -2,7 +2,7 @@
 A Python based Image converter supporting a bunch of image formats.
 ### Supported Formats:
 `.bmp`, `.dds`, `.dib`, `.eps`, `.gif`, `.icns`, `.ico`, `.im`, `.msp`, `.pcx`, `.png`, `.ppm`, `.sgi`, `.spider`, `.tga`, `.tiff`, `.webp`, `.xbm`, `.palm`, `.pdf`, `.xv`
-Note that many more file formats such as .jpg and .jpeg can be read by the program but not converted into.
+Note that many more file formats such as ``.jpg` and `.jpeg` can be read by the program but not converted into.
 
 ### Requirments
 Python needs to be isntalled for this program to work.
