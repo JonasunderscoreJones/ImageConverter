@@ -5,7 +5,10 @@ A Python based Image converter supporting a bunch of image formats.
 
 ### Requirments
 Python needs to be isntalled for this program to work.
-Tkinter doesn't work when .py converted to .exe for some reason - this script uses Tkinter as the graphics library
+Tkinter doesn't work when .py converted to .exe for some reason - this script uses Tkinter as the graphics library#
+
+I recommend creating a shortcut that executes the command automatically and pin it to Start or Taskbar (navigate to StartMenu folder, right click, new > shortcut, command:`C:\Windows\System32\cmd.exe /k python [File location]/ImageConverter_v1.1.py && exit`
+
 ##### Required Python libraries
 - PIL (install with `pip install pillow`)
 - sys (install with `pip install sys`)
