@@ -6,8 +6,7 @@ A Python based Image converter supporting a bunch of image formats.
 Note that many more file formats such as `.jpg` and `.jpeg` can be read by the program but not converted into.
 
 ### Requirments
-Python needs to be isntalled for this program to work.
-Tkinter doesn't work when .py converted to .exe for some reason - this script uses Tkinter as the graphics library
+The program can be downloaded at the ![Releases](https://github.com/J-onasJones/ImageConverter/releases) page. When using the executable nothing else is required for the program to work. When using the python schript the beloow listed libraries as well as python itself need to be installed.
 
 I recommend creating a shortcut that executes the command automatically and pin it to Start or Taskbar (navigate to StartMenu folder, right click, new > shortcut, command:`C:\Windows\System32\cmd.exe /k python [File location]/ImageConverter_v1.1.py && exit`
 
